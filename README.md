@@ -1,6 +1,6 @@
 # coffee_app
 
-A powerful app built with Flutter for browsing random cat images, or with a specific breed name. using free api.
+## A powerful app built with Flutter for browsing random cat images, or with a specific breed name. using free api.
 
 This application is developed for educational purposes.
 
