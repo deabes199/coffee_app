@@ -1,10 +1,15 @@
 # coffee_app
 
-## A powerful app built with Flutter for browsing random cat images, or with a specific breed name. using free api.
+## A powerful app built with Flutter for browsing coffee, using free api.
 
-This application is developed for educational purposes.
+## This application is developed for educational purposes.
 
-## Getting Started
+# 📱 Getting Started
+## This project is responsive and adaptive to all devices with few limits on the web. using clean architecture, and Bloc - Cubit for state management.
+
+
+
+
 
 This project is a starting point for a Flutter application.
 
